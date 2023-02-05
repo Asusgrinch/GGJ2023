@@ -6,6 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Multiples escenas/LoadPart1.unity
+    guid: 8e6dce14223b2ea4299530d037bb11e9
+  - enabled: 1
+    path: Assets/Scenes/Multiples escenas/LoadPart2.unity
+    guid: 2223c58368b9fb9448411e987b3972fd
+  - enabled: 1
+    path: Assets/Scenes/Multiples escenas/LoadPart3.unity
+    guid: 3e7d5a36d75b72742bd568043129273f
+  - enabled: 1
+    path: Assets/Scenes/Multiples escenas/LoadPart4.unity
+    guid: 2da53e83250eaf04e910ccd28e84e88e
+  - enabled: 1
+    path: Assets/Scenes/Multiples escenas/LoadPart5.unity
+    guid: b777497caab7bf64891751f84dc664ef
+  - enabled: 1
     path: Assets/OutdoorsScene.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
+  - enabled: 1
+    path: Assets/Scenes/Multiples escenas/EsceneaPrincipal.unity
+    guid: c208e3d7d9e72934caa5e8ea9323eced
   m_configObjects: {}
