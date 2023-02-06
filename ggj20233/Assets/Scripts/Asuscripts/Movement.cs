@@ -71,7 +71,7 @@ public class Movement : MonoBehaviour
             animator.SetBool("IsJumping", true);
         }
 
-        if (movementDirection != Vector3.zero && Input.GetButtonDown("Jump"))
+        if (Input.GetButtonDown("Jump"))
         {
             animator.SetBool("IsJumping", true);
         }
@@ -110,6 +110,8 @@ public class Movement : MonoBehaviour
         {
             animator.SetBool("IsWalking", false);
         }
+
+
     }
 
     private void OnApplicationFocus(bool focus)
